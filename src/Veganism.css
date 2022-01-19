@@ -1,0 +1,11 @@
+.Veganism p {
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+}
+
+.Veganism img {
+    border-radius: 20px;
+    height: 200px;
+}
