@@ -1,4 +1,5 @@
 import './App.css';
+import { NavLink } from "react-router-dom";
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
   <h2>Enviroment Project</h2>
   <hr />
   <h3>Topics :)</h3>
-  <a href="#about">Veganism</a>
+  <a href="#about"><NavLink to="/veganism">Veganism</NavLink></a>
   <a href="#services">Trees</a>
   <a href="#clients">Donations</a>
   <a href="#contact">Pollution</a>
