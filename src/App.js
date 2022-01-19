@@ -1,6 +1,6 @@
 import './App.css';
 import { BrowserRouter } from "react-router-dom";
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom"; //add Link if needed
 import Veganism from "./Veganism";
 import Trees from "./Trees";
 import Donations from "./Donations";
