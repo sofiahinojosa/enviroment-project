@@ -1,0 +1,12 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+.grid-item {
+    background-color: #E5E5E5;
+    border-radius: 6px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

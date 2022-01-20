@@ -1,6 +1,8 @@
-import React from "react"
-import "./App.css"
-import "./Veganism.css"
+import React from "react";
+import "./App.css";
+import "./Veganism.css";
+import Card from "./Card"
+import "./Card.css";
 
 export default function Veganism() {
     return(
@@ -12,8 +14,9 @@ export default function Veganism() {
                 gravida parturient nunc nostra vel per vulputate at, 
                 montes dui proin mollis integer congue laoreet massa aenean in accumsan magnis. 
                 Accumsan scelerisque mus himenaeos natoque pharetra velit rhoncus id vivamus et.</p>
-                <img alt="bridge" src="https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bmF0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" />
-                <img alt="bridge" src="https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bmF0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" />
+                <div className="grid-container">
+                <Card /> <Card />
+                </div>
             <ul>
                 <li>hello</li>
                 <li>idk</li>

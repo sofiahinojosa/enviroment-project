@@ -9,11 +9,11 @@ export default function Sidebar() {
                 <Link to="/"><h2>Enviroment Project</h2></Link>
                 <hr />
                 <h3>Topics :)</h3>
-                <Link to="/veganism">Veganism</Link>
-                <Link to="/trees">Trees</Link>
-                <Link to="/donations">Donations</Link>
-                <Link to="/pollution">Pollution</Link>
-                <Link to="/ecofriendly">Eco-friendly</Link>
+                <Link to="/veganism">- Veganism</Link>
+                <Link to="/trees">- Trees</Link>
+                <Link to="/donations">- Donations</Link>
+                <Link to="/pollution">- Pollution</Link>
+                <Link to="/ecofriendly">- Eco-friendly</Link>
             </div>
         </div>
     )
