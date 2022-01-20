@@ -9,7 +9,7 @@ export default function Home() {
             <div class="main">
   <h2>Enviroment Project</h2>
   <h3>"quote lol"</h3>
-  <img class="circles" alt="circles" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/095/original/Screen_Shot_2022-01-17_at_6.58.27_p.m..png?1642467588" />
+  <img class="circles" alt="circles" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/208/original/Screen_Shot_2022-01-17_at_6.58.27_p.m.-removebg-preview.png?1642648045" />
   <div class="about">
   <h3>About us :0</h3>
   <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ridiculus, nullam habitant diam eget tincidunt ad nunc quisque, class enim risus odio dapibus dignissim torquent. Neque lacus sollicitudin velit conubia orci gravida parturient nunc nostra vel per vulputate at, montes dui proin mollis integer congue laoreet massa aenean in accumsan magnis. Accumsan scelerisque mus himenaeos natoque pharetra velit rhoncus id vivamus et, ligula porttitor nascetur cubilia varius purus commodo platea posuere condimentum, integer facilisis porta parturient pretium etiam massa laoreet litora.</p>
