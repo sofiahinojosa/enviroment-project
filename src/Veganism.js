@@ -14,7 +14,8 @@ export default function Veganism() {
                  as well as avoiding animal-derived materials, products tested on animals and places that use animals for 
                  entertainment.</p>
                 <div className="grid-container">
-                <Card src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lentil-bolognese-1642711558.jpg?crop=0.896xw:0.598xh;0.104xw,0.225xh&resize=980:*" text="Vegan recipe from 'The Vegan Society'"/> <Card src="https://www.greenqueen.com.hk/wp-content/uploads/2020/01/lazy-cat-kitchen-vegan-larb.jpg" />
+                <a href="https://veganuary.com/recipes/plant-powered-winter-bowl/" target="_blank"><Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/605/original/Screen_Shot_2022-01-24_at_12.43.00_p.m..png?1643049785" text="Plant powered ‘winter’ bowl"/></a>
+                <a href="https://veganuary.com/recipes/vegan-chicken-nuggets/" target="_blank"><Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/611/original/Screen_Shot_2022-01-24_at_1.18.55_p.m..png?1643051941" text="Vegan chcken nuggets" /></a>
                 </div>
                 <h5>Begin planning your transition:</h5>
             <ol>
