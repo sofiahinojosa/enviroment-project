@@ -22,7 +22,7 @@ export default function Veganism() {
                 <li>Remove all meat from your diet, including fish and poultry</li>
                 <li>Avoid products containing gelatin, rennet, and other animal products</li>
                 <li>Begin incorporating more whole grains, beans, legumes, tofu, nuts, and seeds into your diet</li>
-                
+                <li>Swap out all of your favourite non-vegan items for vegan alternatives.</li>
             </ol>
                 <p>Vegans <strong>avoid exploiting animals for any purpose</strong>, with compassion being a key reason many 
                  choose a vegan lifestyle. From accessories and clothing to makeup and bathroom items, animal products 
