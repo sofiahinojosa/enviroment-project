@@ -14,8 +14,8 @@ export default function Veganism() {
                  as well as avoiding animal-derived materials, products tested on animals and places that use animals for 
                  entertainment.</p>
                 <div className="grid-container">
-                <a href="https://veganuary.com/recipes/plant-powered-winter-bowl/" target="_blank"><Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/605/original/Screen_Shot_2022-01-24_at_12.43.00_p.m..png?1643049785" text="Plant powered ‘winter’ bowl"/></a>
-                <a href="https://veganuary.com/recipes/vegan-chicken-nuggets/" target="_blank"><Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/611/original/Screen_Shot_2022-01-24_at_1.18.55_p.m..png?1643051941" text="Vegan chcken nuggets" /></a>
+                <a href="https://veganuary.com/recipes/plant-powered-winter-bowl/" target="_blank" rel="noreferrer" ><Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/605/original/Screen_Shot_2022-01-24_at_12.43.00_p.m..png?1643049785" text="Plant powered ‘winter’ bowl"/></a>
+                <a href="https://veganuary.com/recipes/vegan-chicken-nuggets/" target="_blank" rel="noreferrer" ><Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/611/original/Screen_Shot_2022-01-24_at_1.18.55_p.m..png?1643051941" text="Vegan chcken nuggets" /></a>
                 </div>
                 <h5>Begin planning your transition:</h5>
             <ol>
