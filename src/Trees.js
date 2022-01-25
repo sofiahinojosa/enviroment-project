@@ -11,8 +11,7 @@ export default function Trees() {
             <h1>Trees :]</h1>
             <p>Trees are the <strong>longest living species on earth</strong>, they give us a link between the past, 
                 present and future. It’s critical that woodlands, rainforests and trees in urban 
-                settings, such as parks, are preserved and sustainably managed across the world. 
-                <strong>Why do we need trees anyway?</strong></p>
+                settings, such as parks, are preserved and sustainably managed across the world. <strong>Why do we need trees anyway?</strong></p>
                 <div className="grid-container">
                 <Card src="https://media.istockphoto.com/photos/a-view-up-into-the-trees-direction-sky-picture-id1317323736?b=1&k=20&m=1317323736&s=170667a&w=0&h=VARnUilGZvG6Fq_yivfg_8qeXbGRfo5fio3d9ZGeKpw=" text="Did you know tree rings can predict climate change?" /> 
                 <Card src="https://media.istockphoto.com/photos/young-married-couple-in-work-uniform-with-shovel-plant-tree-sapling-picture-id1297549908?b=1&k=20&m=1297549908&s=170667a&w=0&h=2Qppj64ZCNVxuPo6SFFkh9cpVBS7epuoHxf-EGb4RHo=" text="Planting trees can save you up to 25% on your energy bills." />

@@ -6,7 +6,7 @@ export default function Sidebar() {
     return(
         <div className="Sidebar">
             <div class="sidenav">
-                <Link to="/"><h2>Enviroment Project</h2></Link>
+                <Link to="/"><h2>Prettygreenworld</h2></Link>
                 <hr />
                 <h3>Topics :)</h3>
                 <Link to="/veganism">- Veganism</Link>
