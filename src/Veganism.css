@@ -5,6 +5,10 @@
     font-size: 25px;
 }
 
+.Veganism .blur:hover {
+    filter:  brightness(95%);
+} 
+
 .Veganism img {
     border-radius: 20px;
     height: 200px;
@@ -18,4 +22,13 @@
 
 .Veganism ul {
     margin-left: 20px;
+}
+
+.Veganism a {
+    color: black;
+    transition: ease-in-out 0.5s;
+}
+
+.Veganism a:hover {
+    color: #696969;
 }

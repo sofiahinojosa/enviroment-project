@@ -28,7 +28,7 @@ export default function Trees() {
             <p>People have proposed many solutions to this environmental issue called <strong>deforestation</strong>, 
             including either shipping everyone to the Moon or...to just <strong>stop cutting trees!</strong> Without trees, 
             humans would not be able survive because the <strong>air would be unsuitable for breathing.</strong> If anything, people would 
-            have to develop gas masks that filter the little oxygen that would be left in the air. if there aren't trees, 
+            have to develop gas masks that filter the little oxygen that would be left in the air. If there aren't trees, 
             <strong>there won't be any products you can get from them.</strong> We use and waste paper everyday without realizing we're helping 
             to kill <strong>four billion trees cut down every year.</strong> Food harvested from trees like fruits, nuts, 
             berries (and maple syrup) would be nonexistent as well. Let's do something about it now!</p>
