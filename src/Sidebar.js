@@ -1,8 +1,8 @@
 import React, { useState }  from "react";
-import { Link } from "react-router-dom"; //add Routes, Route if needed
-import "./App.css"
 import Hamburger from "./Hamburger";
 import "./Hamburger.css";
+import { Link } from "react-router-dom"; 
+import "./App.css"
 
 export default function Sidebar() {
     const [hamburgerOpen, setHamburgerOpen] = useState(false);
@@ -14,9 +14,10 @@ export default function Sidebar() {
     return(
         <div className="Sidebar">
             <div className="sidenav">
-                <div className="hamburger" onClick={toggleHamburger}>
-                    <Hamburger />
-                </div>
+            <div className="hamburger" onClick={toggleHamburger}>
+                        <Hamburger isOpen={hamburgerOpen}/>
+                    </div>
+                    <div className="links">
                 <Link to="/"><h2>Prettygreenworld</h2></Link>
                 <hr />
                 <h3>Topics :)</h3>
@@ -25,6 +26,7 @@ export default function Sidebar() {
                 <Link to="/donations">- Donations</Link>
                 <Link to="/pollution">- Pollution</Link>
                 <Link to="/ecofriendly">- Eco-friendly</Link>
+                </div>
             </div>
         </div>
     )

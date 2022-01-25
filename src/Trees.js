@@ -1,13 +1,23 @@
-import React from "react";
+import React, { useState }  from "react";
+import Hamburger from "./Hamburger";
+import "./Hamburger.css";
 import "./App.css";
 import "./Veganism.css";
 import Card from "./Card"
 import "./Card.css";
 
 export default function Trees() {
+    const [hamburgerOpen, setHamburgerOpen] = useState(false);
+
+    const toggleHamburger = () =>{
+        setHamburgerOpen(!hamburgerOpen)
+    }
     return(
         <div className="Veganism">
             <div className="main">
+            <div className="hamburger" onClick={toggleHamburger}>
+                        <Hamburger isOpen={hamburgerOpen}/>
+                    </div>
             <h1>Trees :]</h1>
             <p>Trees are the <strong>longest living species on earth.</strong> It’s important that all woodlands, 
             rainforests and trees found in urban places (for example parks) are preserved and sustainably managed across the world.</p>
