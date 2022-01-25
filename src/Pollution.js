@@ -9,9 +9,9 @@ export default function Trees() {
         <div className="Veganism">
             <div className="main">
             <h1>Pollution :]</h1>
-            <p>Pollution is the <strong>introduction of harmful materials into the environment</strong>. 
-                These harmful materials are called <strong>pollutants.</strong> Pollutants can be natural, 
-                such as volcanic ash. They can also be created by human activity, such 
+            <p>Pollution is the <strong>"introduction of harmful materials into the environment".</strong> These
+             very harmful materials are called <strong>pollutants.</strong> Pollutants could also be natural, 
+                just like volcanic ash. These can also be created by humans, such 
                 as trash or runoff produced by factories. Pollutants <strong>damage the quality 
                 of air, water, and land.</strong></p>
                 <div className="grid-container">
@@ -20,26 +20,26 @@ export default function Trees() {
                 </div>
             <ul>
                 <li><strong>Air pollution</strong></li>
-                <p>Polluted air can be dangerous, even if the pollutants are invisible. 
-                    It can make people’s eyes burn and make them have difficulty breathing. 
-                    It can also increase the risk of lung cancer.</p>
+                <p>Polluted air can be extremely dangerous, even if the pollutants are invisible. 
+                    It can make people’s eyes burn or make them have difficulty breathing. 
+                    It can even increase the risk of lung cancer.</p>
                 <li><strong>Water pollution</strong></li>
-                <p>Polluted water is unsafe for drinking and swimming. Some people who drink
-                     polluted water are exposed to hazardous chemicals that may make them sick
-                      years later. Others consume bacteria and other tiny aquatic organisms 
-                      that cause disease. The United Nations estimates that 4,000 children die
-                       every day from drinking dirty water.</p>
+                <p>Polluted water is not safe for drinking or swimming. People who drink
+                     polluted water are exposed to terrible chemicals that can make them sick.
+                     Others drink bacteria and other small organisms 
+                      that cause disease. The UN estimates that around 4 thousand children die
+                       every single day from drinking polluted water.</p>
                 <li><strong>Land pollution</strong></li>
-                <p>Pesticides and fertilizers from agricultural fields are blown by the wind. 
-                    They can harm plants, animals, and sometimes people. Some fruits and vegetables
-                     absorb the pesticides that help them grow. When people consume the fruits 
+                <p>Pesticides and fertilizers from agricultural fields can be blown by the wind. 
+                    These could harm plants, animals, and even people. Fruits and vegetables
+                     absorb the pesticides that help them grow. When people eat those fruits 
                      and vegetables, the pesticides enter their bodies. Some pesticides can 
-                     cause cancer and other diseases.</p>
+                     cause cancer and other dangerous diseases.</p>
             </ul>
-            <p>Around the world, people and governments are making efforts to combat pollution. 
-                Recycling, for instance, is becoming more common. In recycling, <strong>trash is processed 
-                so its useful materials can be used again.</strong> Glass, aluminum cans, and many types of 
-                plastic can be melted and reused. Paper can be broken down and turned into new paper. <strong>Recycling 
+            <p>People and governments are making great efforts to fight pollution. 
+                Recycling is becoming more common all around the world. In recycling, <strong>trash is processed 
+                so its useful materials can be used again.</strong> Glass, aluminum cans, and many other types of 
+                plastic can be melted and then reused. Paper is broken down and turned into new recycled paper. <strong>All of this 
                 reduces the amount of garbage</strong> that ends up in landfills, incinerators, and waterways.</p>
             </div>
         </div>

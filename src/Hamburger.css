@@ -16,7 +16,21 @@
     transition: all 0.3s linear;
 }
  
- 
+.hamburger {
+    display: none;
+} 
+
+@media only screen and (max-width: 767px) {
+    .hamburger {
+        display: fixed;
+        padding-top: 10px;
+        padding-left: 10px;
+        z-index: 10;
+    }
+  }
+
+/*
+
 @media only screen and (min-width: 767px) {
     .hamburger {
         display: fixed;
@@ -25,19 +39,22 @@
         z-index: 10;
     }
  
-    .hamburger {
+
+    .sidevav {
         display: none;
-    }
- 
-    .sidenav {
-        display: block;
     }
   }
 
-/*
+
 @media only screen and (max-width: 767px) {
-    .sidenav {
+    .sidevav {
         display: none;
     }
+    .hamburger {
+        display: fixed;
+        padding-top: 10px;
+        padding-left: 10px;
+        z-index: 10;
+    }
   }
-  */
+ */

@@ -13,10 +13,10 @@ export default function Sidebar() {
 
     return(
         <div className="Sidebar">
-            <div className="hamburger" onClick={toggleHamburger}>
-                <Hamburger />
-            </div>
             <div className="sidenav">
+                <div className="hamburger" onClick={toggleHamburger}>
+                    <Hamburger />
+                </div>
                 <Link to="/"><h2>Prettygreenworld</h2></Link>
                 <hr />
                 <h3>Topics :)</h3>
