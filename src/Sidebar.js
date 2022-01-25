@@ -14,7 +14,7 @@ export default function Sidebar() {
     return(
         <div className="Sidebar">
             <div class="sidenav">
-            <div className="Hamburger" onClick={toggleHamburger}>
+            <div className="hamburger" onClick={toggleHamburger}>
                 <Hamburger />
             </div>
                 <Link to="/"><h2>Prettygreenworld</h2></Link>
