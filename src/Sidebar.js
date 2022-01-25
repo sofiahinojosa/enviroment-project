@@ -1,5 +1,4 @@
 import React, { useState }  from "react";
-import Hamburger from "./Hamburger";
 import "./Hamburger.css";
 import { Link } from "react-router-dom"; 
 import "./App.css"
@@ -14,9 +13,6 @@ export default function Sidebar() {
     return(
         <div className="Sidebar">
             <div className="sidenav">
-            <div className="hamburger" onClick={toggleHamburger}>
-                        <Hamburger isOpen={hamburgerOpen}/>
-                    </div>
                     <div className="links">
                 <Link to="/"><h2>Prettygreenworld</h2></Link>
                 <hr />
