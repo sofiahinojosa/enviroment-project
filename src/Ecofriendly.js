@@ -1,24 +1,14 @@
-import React, { useState }  from "react";
-import Hamburger from "./Hamburger";
-import "./Hamburger.css";
+import React from "react";
 import "./App.css";
 import "./Veganism.css";
 import Card from "./Card"
 import "./Card.css";
 
 export default function Trees() {
-    const [hamburgerOpen, setHamburgerOpen] = useState(false);
-
-    const toggleHamburger = () =>{
-        setHamburgerOpen(!hamburgerOpen)
-    }
     return(
         <div className="Veganism">
             <div className="main">
-            <div className="hamburger" onClick={toggleHamburger}>
-                        <Hamburger isOpen={hamburgerOpen}/>
-                    </div>
-            <h1>Eco-friendly :]</h1>
+            <h1>Eco-friendly ♻️</h1>
             <p>"Even if you just make one change rather than turning <strong>your entire household eco-friendly overnight,</strong> 
                 you're working to <strong>build better habits</strong> in your corner of the world." (Insider)</p>
                 <div className="grid-container">

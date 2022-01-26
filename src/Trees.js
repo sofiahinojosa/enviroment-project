@@ -18,7 +18,7 @@ export default function Trees() {
             <div className="hamburger" onClick={toggleHamburger}>
                         <Hamburger isOpen={hamburgerOpen}/>
                     </div>
-            <h1>Trees :]</h1>
+            <h1>Trees 🌳</h1>
             <p>Trees are the <strong>longest living species on earth.</strong> It’s important that all woodlands, 
             rainforests and trees found in urban places (for example parks) are preserved and sustainably managed across the world.</p>
                 <div className="grid-container">

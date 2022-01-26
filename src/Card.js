@@ -7,7 +7,7 @@ export default function Card(props) {
             <div className="grid-container">
                 <div className="grid-item">
                     <img alt="bridge" src={props.src} />
-                    <p>{props.text}</p>
+                    <p><strong>{props.text}</strong></p>
                 </div>
             </div>
         </div>

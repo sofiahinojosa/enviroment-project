@@ -18,7 +18,7 @@ export default function Trees() {
             <div className="hamburger" onClick={toggleHamburger}>
                         <Hamburger isOpen={hamburgerOpen}/>
                     </div>
-            <h1>Pollution :]</h1>
+            <h1>Pollution 🏭</h1>
             <p>Pollution is the <strong>"introduction of harmful materials into the environment".</strong> These
              very harmful materials are called <strong>pollutants.</strong> Pollutants could also be natural, 
                 just like volcanic ash. These can also be created by humans, such 

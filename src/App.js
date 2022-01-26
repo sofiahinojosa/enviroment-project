@@ -1,4 +1,4 @@
-import './App.css';
+import "./App.css";
 import { BrowserRouter } from "react-router-dom";
 import { Routes, Route } from "react-router-dom"; //add Link if needed
 import Veganism from "./Veganism";
@@ -8,27 +8,25 @@ import Pollution from "./Pollution";
 import Ecofriendly from "./Ecofriendly";
 import Sidebar from "./Sidebar";
 import Home from "./Home";
-
+ 
 function App() {
   return (
     <div className="App">
-    <BrowserRouter>
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="veganism" element={<Veganism />} />
-      <Route path="trees" element={<Trees />} />
-      <Route path="donations" element={<Donations />} />
-      <Route path="pollution" element={<Pollution />} />
-      <Route path="ecofriendly" element={<Ecofriendly />} />
-    </Routes>
-    <div className="App">
-      
-<Sidebar />
-
-    </div>
-    </BrowserRouter>
+      <BrowserRouter>
+        <div className="App">
+          <Sidebar />
+        </div>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="veganism" element={<Veganism />} />
+          <Route path="trees" element={<Trees />} />
+          <Route path="donations" element={<Donations />} />
+          <Route path="pollution" element={<Pollution />} />
+          <Route path="ecofriendly" element={<Ecofriendly />} />
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
-
+ 
 export default App;

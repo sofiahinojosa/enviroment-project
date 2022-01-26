@@ -1,24 +1,14 @@
-import React, { useState }  from "react";
-import Hamburger from "./Hamburger";
-import "./Hamburger.css";
+import React from "react";
 import "./App.css";
 import "./Veganism.css";
 import Card from "./Card"
 import "./Card.css";
 
 export default function Trees() {
-    const [hamburgerOpen, setHamburgerOpen] = useState(false);
-
-    const toggleHamburger = () =>{
-        setHamburgerOpen(!hamburgerOpen)
-    }
     return(
         <div className="Veganism">
             <div className="main">
-            <div className="hamburger" onClick={toggleHamburger}>
-                        <Hamburger isOpen={hamburgerOpen}/>
-                    </div>
-            <h1>Donations :]</h1>
+            <h1>Donations 🙌</h1>
             <p>Why is donating important for the environment? The work of <strong>effective charities</strong> can 
             have environmental benefits, such as <strong>improving air quality,</strong> reducing greenhouse gas emissions, 
             preserving habitat, and <strong>reducing hunting pressure</strong> on endangered or rare species.</p>

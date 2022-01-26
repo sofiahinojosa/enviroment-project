@@ -1,5 +1,4 @@
-import React, { useState }  from "react";
-import Hamburger from "./Hamburger";
+import React from "react";
 import "./Hamburger.css";
 import "./App.css";
 import "./Veganism.css";
@@ -7,18 +6,12 @@ import Card from "./Card"
 import "./Card.css";
 
 export default function Veganism() {
-    const [hamburgerOpen, setHamburgerOpen] = useState(false);
 
-    const toggleHamburger = () =>{
-        setHamburgerOpen(!hamburgerOpen)
-    }
     return(
         <div className="Veganism">
             <div className="main">
-            <div className="hamburger" onClick={toggleHamburger}>
-                        <Hamburger isOpen={hamburgerOpen}/>
-                    </div>
-            <h1>Veganism :]</h1>
+            
+            <h1>Veganism 🥗</h1>
             <p>There are lots of ways to <strong>embrace vegan living.</strong> Veganism is a plant-based diet
                  excluding all animal foods. (meat, fish, shellfish and insects, as well as dairy, eggs and honey) and 
                  avoiding animal-derived materials, products tested on animals and places that use animals for 

@@ -12,7 +12,35 @@
 }
 
 .Card p {
-  font-size: 15px;
+  font-size: 17px;
   color: black;
   text-decoration: none;
+}
+
+@media only screen and (max-width: 930px) {
+  .Card img {
+    height: 150px;
+  }
+}
+
+@media only screen and (max-width: 520px) {
+  .Card img {
+    height: 120px;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .grid-container {
+    display: inline;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .grid-item {
+    background-color: #E5E5E5;
+    border-radius: 6px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 60%;
+}
 }
