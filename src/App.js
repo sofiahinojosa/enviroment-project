@@ -8,6 +8,7 @@ import Pollution from "./Pollution";
 import Ecofriendly from "./Ecofriendly";
 import Sidebar from "./Sidebar";
 import Home from "./Home";
+
  
 function App() {
   return (

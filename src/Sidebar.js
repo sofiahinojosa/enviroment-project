@@ -16,11 +16,10 @@ export default function Sidebar() {
       <div className="hamburger" onClick={toggleHamburger}>
         <Hamburger />
       </div>
-      {hamburgerOpen ? (
         <div className="sidenav">
           <div className="links">
             <Link to="/">
-              <h2>Prettygreenworld</h2>
+              <h2>Pgw 🌎🌱</h2>
             </Link>
             <hr />
             <h3>Topics :)</h3>
@@ -31,7 +30,6 @@ export default function Sidebar() {
             <Link to="/ecofriendly">- Eco-friendly</Link>
           </div>
         </div>
-      ) : null}
     </div>
   );
 }

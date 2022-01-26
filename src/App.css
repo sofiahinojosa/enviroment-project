@@ -89,6 +89,45 @@ background-image: url("data:image/svg+xml,%3Csvg width='52' height='26' viewBox=
   padding: 0px 10px;
 }
  
+.main {
+  margin-left: 260px; /* Same as the width of the sidenav */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+ @media only screen and (max-width: 767px) {
+  .main {
+    margin-left: 60px; /* Same as the width of the sidenav */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+  }
+
+  .sidenav {
+    height: 100%;
+    width: 60px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #A9BA9D;
+    overflow-x: hidden; 
+    padding-top: 30px;
+  }
+}  
+
+
+@media only screen and (max-width: 767px) {
+  .sidenav {
+    display: none;
+  }
+} 
+
+@media only screen and (min-width: 767px) {
+  .sidenav2 {
+    display: none;
+  }
+} 
+
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
