@@ -5,17 +5,14 @@ import { Link } from "react-router-dom";
 import "./App.css";
  
 export default function Sidebar() {
-  const [hamburgerOpen, setHamburgerOpen] = useState(false);
- 
-  const toggleHamburger = () => {
-    setHamburgerOpen(!hamburgerOpen);
-  };
+    window.addEventListener('resize', function(event) {
+        if (window.innerWidth < 767) {
+            document.getElementById('#v').innerText = '-V';
+        }, true);
+    }
  
   return (
     <div className="Sidebar">
-      <div className="hamburger" onClick={toggleHamburger}>
-        <Hamburger />
-      </div>
         <div className="sidenav">
           <div className="links">
             <Link to="/">
@@ -23,7 +20,7 @@ export default function Sidebar() {
             </Link>
             <hr />
             <h3>Topics :)</h3>
-            <Link to="/veganism">- Veganism</Link>
+            <Link id="v" to="/veganism">- Veganism</Link>
             <Link to="/trees">- Trees</Link>
             <Link to="/donations">- Donations</Link>
             <Link to="/pollution">- Pollution</Link>
