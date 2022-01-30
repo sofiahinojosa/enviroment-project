@@ -4,6 +4,9 @@ import "./Veganism.css";
 import Card from "./Card"
 import "./Card.css";
 
+
+//https://i.insider.com/6081d30a1041d50019f2db4f?width=700&format=jpeg&auto=webp
+
 export default function Trees() {
     return(
         <div className="Veganism">
@@ -12,8 +15,8 @@ export default function Trees() {
             <p>"Even if you just make one change rather than turning <strong>your entire household eco-friendly overnight,</strong> 
                 you're working to <strong>build better habits</strong> in your corner of the world." (Insider)</p>
                 <div className="grid-container">
-                <Card src="https://i.insider.com/6081d30a1041d50019f2db4f?width=700&format=jpeg&auto=webp" text="Swimwear made from recycled materials (Evarlane)" /> 
-                <Card src="https://i.insider.com/59f0ad198280a6bf118b4971?width=700&format=jpeg&auto=webp" text="An e-reader can help diminish the carbon footprint of someone who frequently buys new books" />
+                <Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/965/original/Screen_Shot_2022-01-29_at_9.56.50_p.m..png?1643515043" text="Many schools around the world have implemented recicable trash bins" /> 
+                <Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/967/original/Screen_Shot_2022-01-29_at_10.04.59_p.m..png?1643515506" text="Try buying biodegradable options next time!" />
                 </div>
                 <h5>Eco-friendly ideas you should try:</h5>
             <ul>

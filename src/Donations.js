@@ -14,7 +14,7 @@ export default function Trees() {
             have environmental benefits, such as <strong>improving air quality,</strong> reducing greenhouse gas emissions, 
             preserving habitat, and <strong>reducing hunting pressure</strong> on endangered or rare species.</p>
                 <div className="grid-container">
-                <Card src="https://supportandfeed.org/app/uploads/2021/07/support-feed_sage_2373-scaled.jpg.webp" text="'Access to nourishing plant based food is a human right' -Maggie Baird from Support And Feed" /> 
+                <Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/977/original/Screen_Shot_2022-01-29_at_11.08.59_p.m..png?1643519349" text="'Access to nourishing plant based food is a human right' -Maggie Baird from Support And Feed" /> 
                 <Card src="https://www.healthyfamilynews.com/wp-content/uploads/2021/04/166367331_3397842650442043_6247810131992794729_n.jpg" text="Founder Maggie Baird with Billie, Finneas, Claudia, and Patrick" />
                 </div>
                 <h5>The 5 best environmental groups to donate for a better world:</h5>

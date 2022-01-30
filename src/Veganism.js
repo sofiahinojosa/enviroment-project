@@ -17,8 +17,8 @@ export default function Veganism() {
                  avoiding animal-derived materials, products tested on animals and places that use animals for 
                  entertainment.</p>
                 <div className="grid-container">
-                <a class="blur" href="https://veganuary.com/recipes/plant-powered-winter-bowl/" target="_blank" rel="noreferrer" ><Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/605/original/Screen_Shot_2022-01-24_at_12.43.00_p.m..png?1643049785" text="Plant powered ‘winter’ bowl"/></a>
-                <a class="blur" href="https://veganuary.com/recipes/vegan-chicken-nuggets/" target="_blank" rel="noreferrer" ><Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/611/original/Screen_Shot_2022-01-24_at_1.18.55_p.m..png?1643051941" text="Vegan chcken nuggets" /></a>
+                <a class="blur" href="https://veganuary.com/recipes/plant-powered-winter-bowl/" target="_blank" rel="noreferrer" ><Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/970/original/Screen_Shot_2022-01-29_at_10.26.15_p.m..png?1643516782" text="Plant powered ‘winter’ bowl"/></a>
+                <a class="blur" href="https://veganuary.com/recipes/vegan-chicken-nuggets/" target="_blank" rel="noreferrer" ><Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/968/original/Screen_Shot_2022-01-29_at_10.21.21_p.m..png?1643516491" text="Vegan chcken nuggets" /></a>
                 </div>
                 <h5>How to change to a vegan diet:</h5>
             <ol>

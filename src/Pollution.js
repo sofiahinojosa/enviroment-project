@@ -25,8 +25,8 @@ export default function Trees() {
                 as trash or runoff produced by factories. Pollutants <strong>damage the quality 
                 of air, water, and land.</strong></p>
                 <div className="grid-container">
-                <Card src="https://media.istockphoto.com/photos/industrial-pollution-picture-id537871941?b=1&k=20&m=537871941&s=170667a&w=0&h=O-EJBGKTaVqvzU2_mUcK-zdNteLmf9n7i2DG2ZUrcB4=" text="Did you know that over 1 million seabirds and 100,000 sea mammals are killed by pollution every year?" /> 
-                <Card src="https://media.istockphoto.com/photos/cars-at-rush-hour-driving-through-thick-smog-picture-id174655376?b=1&k=20&m=174655376&s=170667a&w=0&h=HQUwhsmp-3UcG9BcFEEStAtKy7oKsrbSgZxLKEIHovA=" text="People who live in places with high levels of air pollutants have a 20% higher risk of death from lung cancer." />
+                <Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/966/original/Screen_Shot_2022-01-29_at_10.03.20_p.m..png?1643515410" text="Did you know that over 1 million seabirds and 100,000 sea mammals are killed by pollution every year?" /> 
+                <Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/976/original/Screen_Shot_2022-01-29_at_10.46.00_p.m..png?1643517981" text="People who live in places with high levels of air pollutants have a 20% higher risk of death from lung cancer." />
                 </div>
             <ul>
                 <li><strong>Air pollution</strong></li>

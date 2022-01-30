@@ -22,8 +22,8 @@ export default function Trees() {
             <p>Trees are the <strong>longest living species on earth.</strong> It’s important that all woodlands, 
             rainforests and trees found in urban places (for example parks) are preserved and sustainably managed across the world.</p>
                 <div className="grid-container">
-                <Card src="https://media.istockphoto.com/photos/a-view-up-into-the-trees-direction-sky-picture-id1317323736?b=1&k=20&m=1317323736&s=170667a&w=0&h=VARnUilGZvG6Fq_yivfg_8qeXbGRfo5fio3d9ZGeKpw=" text="Did you know tree rings can predict climate change?" /> 
-                <Card src="https://media.istockphoto.com/photos/young-married-couple-in-work-uniform-with-shovel-plant-tree-sapling-picture-id1297549908?b=1&k=20&m=1297549908&s=170667a&w=0&h=2Qppj64ZCNVxuPo6SFFkh9cpVBS7epuoHxf-EGb4RHo=" text="Planting trees can save you up to 25% on your energy bills." />
+                <Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/971/original/Screen_Shot_2022-01-29_at_10.42.19_p.m..png?1643517746" text="Did you know tree rings can predict climate change?" /> 
+                <Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/975/original/Screen_Shot_2022-01-29_at_10.43.37_p.m..png?1643517823" text="Planting trees can save you up to 25% on your energy bills." />
                 </div>
             <ul>
                 <h5>Did you know...</h5>
