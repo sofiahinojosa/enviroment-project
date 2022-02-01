@@ -30,13 +30,11 @@ export default function Trees() {
                 <li>Reusable coffee filters</li>
                 <li>Secondhand clothes and accessories</li>
             </ul>
-            <p>It's super simple to make <strong>positive changes to your lifestyle</strong> just
-                  by knowing where to start. What if you stopped using a K-Cup, and swap
-                  it for a reusable coffee filter? What if you're out of laundry detergent? Try one
-                   with better ingredients! You dont have to feel ashamed that your
-                     trash doesn't fit in a mason jar. <strong>Try to shop local when its possible,</strong> and
-                       get only buy what you need. Maybe ride a bike and use public transportation, or try to 
-                       fix what you own before replacing it!</p>
+            <p>You can have many <strong>positive changes</strong> if you know where to start. 
+            There are so many creative ideas you can apply to your daily life. For example, try 
+            riding a bike more than a car or use recyclable coffee filters!! The possibilities are endless. </p>
+            <a class="button1" target="_blank" rel="noreferrer" href="https://youtu.be/RyvBhC7MT84">Learn more here :)</a>
+            <br /><br />
             </div>
         </div>
     )

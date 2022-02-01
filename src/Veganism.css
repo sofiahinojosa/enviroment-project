@@ -32,3 +32,16 @@
 .Veganism a:hover {
     color: #696969;
 }
+
+.button1 {
+    border-radius: 4px;
+    color: white;
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #A9BA9D;
+  }
