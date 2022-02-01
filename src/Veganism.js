@@ -12,13 +12,13 @@ export default function Veganism() {
             <div className="main">
             
             <h1>Veganism 🥗</h1>
-            <p>There are lots of ways to <strong>embrace vegan living.</strong> Veganism is a plant-based diet
-                 excluding all animal foods. (meat, fish, shellfish and insects, as well as dairy, eggs and honey) and 
-                 avoiding animal-derived materials, products tested on animals and places that use animals for 
-                 entertainment.</p>
+            <p><strong>There are many ways to be vegan.</strong> Veganism in itself is a plant-based diet, 
+                which means no foods that come from animals. They also not only include 
+                meat and direct products of animals, but also animal-derived products, 
+                ones tested on animals, and those who use use animals for entertainment.</p>
                 <div className="grid-container">
-                <a class="blur" href="https://veganuary.com/recipes/plant-powered-winter-bowl/" target="_blank" rel="noreferrer" ><Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/970/original/Screen_Shot_2022-01-29_at_10.26.15_p.m..png?1643516782" text="Plant powered ‘winter’ bowl"/></a>
-                <a class="blur" href="https://veganuary.com/recipes/vegan-chicken-nuggets/" target="_blank" rel="noreferrer" ><Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/968/original/Screen_Shot_2022-01-29_at_10.21.21_p.m..png?1643516491" text="Vegan chcken nuggets" /></a>
+                <Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/970/original/Screen_Shot_2022-01-29_at_10.26.15_p.m..png?1643516782" text="Did you know a plant-based diet increases metabolism by 16%?"/>
+                <Card src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/968/original/Screen_Shot_2022-01-29_at_10.21.21_p.m..png?1643516491" text="Dont worry, plant-based diets can easily provide complete protein!" />
                 </div>
                 <h5>How to change to a vegan diet:</h5>
             <ol>
@@ -28,11 +28,11 @@ export default function Veganism() {
                 <li>Eat more whole grains, beans, legumes, tofu, nuts, and seeds</li>
                 <li>Swap out your non-vegan items for vegan alternatives</li>
             </ol>
-                <p>Vegans <strong>avoid exploiting animals</strong>, that is the reason many 
-                 choose a vegan lifestyle. Accessories, clothing, makeup and bathroom items may be 
-                 tested on animals, and you can find them almost everywhere. Luckily, nowadays there 
-                 are <strong>affordable and easily-sourced alternatives to almost everything</strong>. With around 58 thousand products and 
-                 services available, <strong>living a vegan lifestyle is now easier.</strong></p>
+                <p>Vegans are <strong>against the exploitation of animals,</strong> which is the main cause 
+                    people choose to go vegan. This extends not only to food, but also 
+                    clothing, makeup, toiletries, and other accessories. It is now easier
+                     to <strong>find vegan alternatives</strong> to products and services. It is estimated 
+                     that there are around 58 thousand vegan products and services available today.</p>
             </div>
         </div>
     )
