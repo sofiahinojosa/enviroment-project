@@ -33,6 +33,8 @@ export default function Veganism() {
                     clothing, makeup, toiletries, and other accessories. It is now easier
                      to <strong>find vegan alternatives</strong> to products and services. It is estimated 
                      that there are around 58 thousand vegan products and services available today.</p>
+            <a class="button1" target="_blank" rel="noreferrer" href="https://www.veganricha.com/">Recomended vegan recipes</a>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ujRPPVPgySY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     )

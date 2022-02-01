@@ -39,6 +39,8 @@ export default function Trees() {
                 have proposed solutions such as sending everyone to the 
                 moon, but there only real solution is to stop cutting trees! We 
                 need trees to have <strong>healthy air to breathe.</strong> Lets do something about it now :)</p>
+            <a class="button1" target="_blank" rel="noreferrer" href="https://unsplash.com/s/photos/tree">Cool tree pics here :D</a>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/UnwMq1gGjhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     )
